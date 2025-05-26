@@ -15,8 +15,8 @@ I'm continuously expanding my skillset, focusing on **advanced web development, 
 
 ## 💡 How to Reach Me
 - 🌐 [GitHub](https://github.com/nikhilpurwar)
-- 📧 Email: npnikhilpurwar@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Email: npnikhilpurwar@gmail.com
 
 ## ⚡ Fun Fact
 I believe in lifelong learning and thrive on solving challenging problems!
